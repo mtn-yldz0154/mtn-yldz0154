@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>💻 Backend & Full-Stack Developer | 🧑‍💼 Freelance Software Engineer</strong><br>
-  <em>ASP.NET Core · Laravel · Node.js · React · Python · SQL</em>
+  <em>ASP.NET Core · Laravel · Node.js · React Native · Php · SQL</em>
 </p>
 
 ---
