@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, ben Metin Yıldız</h1>
+<h1 align="center">👋 Hi, I'm Metin Yıldız</h1>
 
 <p align="center">
   <strong>💻 Backend & Full-Stack Developer | 🧑‍💼 Freelance Software Engineer</strong><br>
@@ -7,87 +7,59 @@
 
 ---
 
-## 🧑‍💻 Hakkımda
+## 🧑‍💻 About Me
 
-Ben Metin Yıldız, Yazılım Mühendisliği mezunuyum. Yaklaşık 4 yıldır freelance olarak web, mobil ve backend projelerinde aktif rol alıyor; ağırlıklı olarak **backend geliştirme** yapıyorum.  
-Projelerde fikir aşamasından yayına alma sürecine kadar tüm teknik adımlarda sorumluluk alıyor, uçtan uca yazılım çözümleri geliştiriyorum.
+I'm Metin Yıldız, a Software Engineering graduate with around 4 years of experience working freelance on web, mobile, and backend projects.  
+I mainly focus on backend development while also handling end-to-end software delivery—from concept to deployment and maintenance.
 
-Profesyonel olarak **ASP.NET Core**, **Laravel** ve **Node.js** ile backend; **React** ile frontend uygulamaları geliştiriyorum. Mobil tarafta ise **React Native** ile projeler ürettim.  
-Ayrıca **Python** ile küçük servisler, veri işleme araçları ve otomasyon scriptleri yazma deneyimine sahibim.
-
----
-
-## ⚙️ Kullandığım Teknolojiler & Araçlar
-
-| Alan               | Teknolojiler / Araçlar |
-|--------------------|-------------------------|
-| **Backend**        | ASP.NET Core, Laravel, Node.js, Python (Flask / FastAPI) |
-| **Frontend**       | React, HTML5, CSS3, JavaScript, Bootstrap |
-| **Mobil**          | React Native |
-| **Veri Tabanı**    | SQL Server, MySQL, PostgreSQL, SQLite |
-| **API & Güvenlik** | RESTful API, JWT Auth, Swagger, OAuth2 |
-| **Servisler**      | Google Maps API, Firebase, İyzico, Netgsm, SMTP |
-| **Araçlar**        | Git, GitHub, Docker, Postman, VS Code |
-| **Yönetim & Agile**| Trello, Jira, Notion, GitHub Projects |
+Professionally, I develop backend services with **ASP.NET Core**, **Laravel**, and **Node.js**, and build frontend applications using **React**. I also create mobile apps using **React Native** and develop small-scale services, data processing tools, and automation scripts with **Python**.
 
 ---
 
-## 📌 Neler Yapabiliyorum?
+## ⚙️ Technologies & Tools I Use
 
-- ✅ Backend servis ve API geliştirme  
-- ✅ Veritabanı modelleme ve optimizasyon  
-- ✅ Kimlik doğrulama, yetkilendirme ve güvenlik katmanları  
-- ✅ Frontend geliştirme ve REST API tüketimi  
-- ✅ Mobil uygulama geliştirme (React Native)  
-- ✅ 3. parti servis entegrasyonları (ödeme, SMS, harita, e-posta vb.)  
-- ✅ Mikroservis mimarileri & Socket.io ile gerçek zamanlı sistemler  
-- ✅ Docker ile container yönetimi ve deployment süreçleri
-
----
-
-## 🧩 Öne Çıkan Projeler
-
-### 🔐 **Kimlik Doğrulama Sistemi (ASP.NET Core + JWT)**
-Kurumsal projeler için geliştirilen kullanıcı yönetimi, rol bazlı yetkilendirme, refresh token sistemi ve Swagger dökümantasyonu içeren API çözümü.  
-🔗 [GitHub'da Görüntüle](https://github.com/metinyildiz/kimlik-dogrulama-api)
+| Area              | Technologies / Tools                          |
+|-------------------|----------------------------------------------|
+| **Backend**       | ASP.NET Core, Laravel, Node.js, Python (Flask / FastAPI) |
+| **Frontend**      | React, HTML5, CSS3, JavaScript, Bootstrap    |
+| **Mobile**        | React Native                                 |
+| **Database**      | SQL Server, MySQL, PostgreSQL, SQLite        |
+| **API & Security**| RESTful API, JWT Auth, Swagger, OAuth2       |
+| **Services**      | Google Maps API, Firebase, İyzico, Netgsm, SMTP |
+| **Tools**         | Git, GitHub, Docker, Postman, VS Code        |
+| **Project Management** | Trello, Jira, Notion, GitHub Projects      |
 
 ---
 
-### 🛒 **Laravel E-Ticaret Platformu**
-Laravel + Vue ile geliştirilen çok dilli, ürün filtreleme, sepet yönetimi ve **İyzico ödeme entegrasyonu** içeren kapsamlı e-ticaret sistemi.  
-🔗 [GitHub'da Görüntüle](https://github.com/metinyildiz/laravel-ecommerce)
+## 📌 What I Can Do
 
----
+- ✅ Backend services and API development  
+- ✅ Database design and optimization  
+- ✅ Authentication, authorization, and security layers  
+- ✅ Frontend development and REST API consumption  
+- ✅ Mobile application development (React Native)  
+- ✅ Third-party service integrations (payment, SMS, maps, email, etc.)  
+- ✅ Microservices architectures & real-time systems with Socket.io  
+- ✅ Docker containerization and deployment workflows
 
-### 📍 **Harita Bazlı Mobil Uygulama (React Native + Google Maps)**
-Kullanıcının konumunu harita üzerinde gösteren, mekan arama, rota oluşturma ve filtreleme özelliklerine sahip mobil uygulama.  
-🔗 [GitHub'da Görüntüle](https://github.com/metinyildiz/harita-mobil-app)
 
----
-
-### 💬 **Gerçek Zamanlı Sohbet (Node.js + Socket.io)**
-Gerçek zamanlı mesajlaşma özelliklerine sahip, Socket.io ile geliştirilmiş basit ve ölçeklenebilir sohbet sistemi.  
-🔗 [GitHub'da Görüntüle](https://github.com/metinyildiz/socket-chat-app)
-
----
-
-## 📈 GitHub İstatistiklerim
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=metinyildiz&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metinyildiz&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mtn-yldz0154&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtn-yldz0154&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 📫 İletişim
+## 📫 Contact Me
 
-- 📧 E-posta: [metinyildiz@example.com] <!-- Gerçek adresinle değiştir -->
-- 🌐 Kişisel Web Sitesi / Portföy: [https://metinyildiz.dev](https://metinyildiz.dev) <!-- varsa -->
-- 💼 LinkedIn: [linkedin.com/in/metinyildiz](https://linkedin.com/in/metinyildiz)
+- 📧 Email: [m.yildix76@gmail.com] <!-- Replace with your real email -->
+- 🌐 Personal Website / Portfolio: [https://metinyildiz.dev](https://metinyildiz.dev) <!-- If available -->
+- 💼 LinkedIn: [linkedin.com/in/metinyildiz](https://www.linkedin.com/in/metin-yıldız-311959222)
 
 ---
 
 <p align="center">
-  <em>Kod yazmak sadece bir iş değil, sürekli gelişen bir yolculuktur.</em>
+  <em>Coding is not just a job, but a continuous journey of growth.</em>
 </p>
