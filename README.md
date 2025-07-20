@@ -43,15 +43,6 @@ Professionally, I develop backend services with **ASP.NET Core**, **Laravel**, a
 - ✅ Docker containerization and deployment workflows
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtn-yldz0154&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtn-yldz0154&theme=radical" width="48%" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: [m.yildix76@gmail.com] <!-- Replace with your real email -->
